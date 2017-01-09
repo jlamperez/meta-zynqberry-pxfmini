@@ -9,7 +9,7 @@ LIC_FILES_CHKSUM = "file://COPYING.txt;md5=d32239bcb673463ab874e80d47fae504"
 DEPENDS = "python-future"
 
 # ArduPilot github
-SRCREV = "1781ea1dfb171373d97f439bc0615ae9ed8a53e9"
+SRCREV = "c3e6db3a177188653cca2c5d594e4b68c0038cbd"
 SRC_URI = "git://github.com/jlamperez/ardupilot;protocol=https"
 
 S = "${WORKDIR}/git"
